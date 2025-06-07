@@ -1,13 +1,12 @@
-title: jeodn's site
+title: josh villas
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-url: "https://jeodn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://jeodn.github.io # the base hostname & protocol for your site, e.g. http://example.com
 repository: jeodn/jeodan.github.io # for github-metadata
 
-url: https://just-the-docs.github.io
-
 aux_links:
-  My GitHub: https://github.com/jeodn
+  GitHub: https://github.com/jeodn
+  LinkedIn: https://www.linkedin.com/in/joshdrvillas/
 
 
 # Enable or disable the site search

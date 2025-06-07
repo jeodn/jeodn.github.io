@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<style>
+    .about-me {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.profile-pic {
+  width: 30%;
+  height: 30%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 0px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.about-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+.about-text h2 {
+  margin-top: 0;
+}
+</style>
+
+<div class="about-me">
+  <img src="assets/images/portrait-square.jpg" style="width:30%;" alt="portrait" class="profile-pic">
+  <div class="about-text">
+    <h2>Hi, I'm Josh.</h2>
+    <p>
+      I'm a second year student studying computer science and applied mathematics at the University of Toronto.
+    </p>
+    <p>
+      My interests span statistics & machine learning, software engineering, computer architecture & hardware, finance, and more. I aim to pursue a career where I can apply quantitative methods to solve real problems. 
+    </p>
+    <p>
+        Other than these, i'm also interested in languages, urbanism, and playing the drums.
+    </p>
+  </div>
+</div>
+
+{{ content }}

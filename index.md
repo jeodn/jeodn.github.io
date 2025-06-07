@@ -4,19 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-{: .new}
-I just posted my old high school research project on how car usage relates to city density in Canadian cities. Check it out!
-
-<!--<img src="assets/images/portrait-square.jpg" style="width:30%;" alt="portrait">-->
-
-## Hello, I'm Josh Villas.
-
-I'm a second year student studying computer science and applied mathematics at the University of Toronto. My interests span statistics & machine learning, software engineering, computer architecture & hardware, finance, and more.
-
-In the future, I aspire to enter a career where I can apply mathematics, statistics, and software to solve problems. I'd be a data scientist, quant developer, or in an industry researcher position.
-
-Other than these, i'm also interested in languages, urbanism, and playing the drums.
-
 {: .figure}
 *"And so it is with mathematics, that we teach our students how to paint fences, and never show them the works of the great masters."*
 
@@ -24,8 +11,11 @@ Other than these, i'm also interested in languages, urbanism, and playing the dr
 
 ## Projects
 
+{: .new}
+I just posted my old high school research project on how car usage relates to city density in Canadian cities. Check it out in my blog!
+
 {: .notice}
-The projects page is unfinished, so please look through [this old version of the website instead] to to see a preview of my portfolio. \
+This version of my projects page is unfinished, so please look through [this old version of the website instead] to to see a preview of my portfolio. \
 To see a preview of my resume, click [here](./resumepreview.html).
 
 ---
@@ -34,7 +24,7 @@ To see a preview of my resume, click [here](./resumepreview.html).
 ### **Audiovisual Team**
 **Every Nation** \
 Jun 2021 - Present \
-I've been doing this one for a while. I do audio visual work here. I've always had a passing interest in photography and videography which is combined with my love for tech in my activities here.
+I've been doing this one for a while. I do audio visual work here. I've always had a passing interest in photography and videography, which combines well with my love for tech in my activities here.
 
 ### **Youth In Policing Initiative**
 **Peel Regional Police** \
@@ -44,7 +34,7 @@ I thought this was pretty fun. It was a nice opportunity to work for the police 
 ### **Peer Tutor**
 **St. Roch Catholic Secondary School** \
 Mar 2022 - Jun 2024 \
-I used to work as a tutor for younger students at my school. I taught math, physics, and french.
+I used to work as a tutor for younger students at my school. I taught math, physics, and French.
 
 ## Achievements and awards
 I'm pretty proud of these, although most of these are from high school.
