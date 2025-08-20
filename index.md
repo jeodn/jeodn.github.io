@@ -4,19 +4,25 @@ layout: home
 nav_order: 1
 ---
 
-{: .figure}
-*"And so it is with mathematics, that we teach our students how to paint fences, and never show them the works of the great masters."*
-
 ---
 
 ## Projects
 
-{: .new}
-I just posted my old high school research project on how car usage relates to city density in Canadian cities. Check it out in my blog!
-
 {: .notice}
-This version of my projects page is unfinished, so please look through [this old version of the website instead] to to see a preview of my portfolio. \
+This version of my projects page is unfinished, so please look through [this old version of the website instead] to see a more complete preview of my work. \
 To see a preview of my resume, click [here](./resumepreview.html).
+
+### **Paint++**
+[**CSC207 Project**](https://github.com/ecorbin567/paintplusplus) \
+Jul - Aug 2025
+
+This is my group's submission for our summer CSC207H1 class which we have just recently wrapped up. It's a recreation of Microsoft Paint but with integrated accounts and document storage like in Google Docs.
+
+I worked primarily on the latter features. We used a Supabase database to store and access user account/file storage data. 
+
+{: .figure}
+![alt text](assets/images/paintpp_drawing.png)
+**A very messy screenshot of the drawing view. Thanks to our TA for really liking the project.**
 
 ---
 
@@ -43,5 +49,5 @@ I'm pretty proud of these, although most of these are from high school.
 - [2024 DPCDSB Top Ontario Scholar]
 
 ----
-[2024 DPCDSB Top Ontario Scholar]: https://www3.dpcdsb.org/Documents/2023-24%20DPCDSB%20Top%20Scholars.pdf
+[2024 DPCDSB Top Ontario Scholar]: assets/misc/2024DPCDSBTopScholars.pdf
 [this old version of the website instead]: https://jeodn.github.io/website-me/

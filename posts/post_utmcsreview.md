@@ -8,7 +8,9 @@ nav_order: 2
 ## A review of my first year of CS at UofT Mississauga
 April 19, 2025 by Josh Villas
 
-I'm writing this as I procrastinate studying for my final exam of year 1. I tell people time passed really quickly, but to be honest, my first year has been a long one. The POSt system at UTM makes sure you feel that way, because at UTM, you aren't directly admitted to CS; you must make some arbitrary grades cutoff in MAT102 and CSC148. They're changing this in 2026/2027, so I thought I would write my review as an archive of sorts; how it used to be.
+I'm writing this as I procrastinate studying for my final exam of year 1. I tell people time passed really quickly, but to be honest, my first year has been a long one. The POSt system at UTM makes sure you feel that way, because at UTM, you aren't directly admitted to CS; you must make some arbitrary grades cutoff in MAT102 and CSC148. 
+
+Fortunately for the future generations, this will change in 2026/2027. So I thought I would write my review as an archive of sorts-to show how it used to be.
 
 I finished with A+ in both MAT102 and CSC148 (90, 93 respectively), and ...
 
