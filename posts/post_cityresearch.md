@@ -11,7 +11,7 @@ June 6, 2025 by Josh Villas
 ---
 
 ### Preface
-This might sound like it was written by a high schooler, because it was. This was my final research project for my Grade 12 Data Management class, which might explain the tone. Nevertheless, urbanist topics like this one interest me to this day and I'm quite proud that I decided to dedicate my Culminating Performance Task to learn more about this.
+This was my final research project for a data management class. Urbanist topics like this one interest me to this day, and I'm quite proud that I decided to dedicate my final project to learn more about this.
 
 ---
 
