@@ -71,3 +71,10 @@ html #back-to-top {
 html.scrolled #back-to-top {
   @apply opacity-100 pointer-events-auto;
 }
+
+.circle-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover; /* Ensures the image fills the circle without stretching */
+}
