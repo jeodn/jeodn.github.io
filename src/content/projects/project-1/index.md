@@ -1,9 +1,10 @@
 ---
-title: "sdsdfs"
+title: "Original template information"
 description: "sdfsdfs"
 date: "May 18 2026"
 demoURL: "https://astro-sphere-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-sphere"
+draft: true
 ---
 
 ![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
